@@ -2,7 +2,7 @@
 Hello there!\
 This repository holds my programming projects done during the period of SC001 and SC101 course.
 
-Watch my *[Demo Videos!](https://drive.google.com/drive/folders/1YkttTqNOuoRcYZptpVpc3VVNoP_0C1sV?usp=sharing)
+Watch my *[Demo Videos!](https://drive.google.com/drive/folders/1YkttTqNOuoRcYZptpVpc3VVNoP_0C1sV?usp=sharing)*
 
 ## Project Sources Codes:
 * [Hangman Game](https://github.com/jennywei1995/SC-project/blob/main/StanCode-Projects/hangman_game/hangman.py)
